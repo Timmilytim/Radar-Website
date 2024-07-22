@@ -1930,7 +1930,7 @@ iframe#youtubevideo {
 }
 
 .key_innner {
-    background: var(--dark-black);
+    background: #f7f2f1;
     max-width: 1370px;
     margin: 0 auto;
     border-radius: 20px;
@@ -1952,7 +1952,7 @@ iframe#youtubevideo {
 }
 
 .key_innner .section_title h2 {
-    color: var(--text-white);
+    color: #4C2900;
 }
 
 .feature_box {
@@ -2396,7 +2396,7 @@ footer .download_side .app_btn li a img {
 }
 
 .about_us_section .abt_text h2 span {
-    color: var(--main-colour);
+    color: #139f2e;
 }
 
 /* ===============Why Choose Us Section Css Start================== */
